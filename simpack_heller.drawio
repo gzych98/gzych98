@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T06:38:43.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="T2K14icuEiZ_waZxWa-0" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T06:40:38.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qclP9uWtaUPA0kLC7Brq" version="22.1.16" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="5565" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="6852" dy="1302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -242,6 +242,9 @@
         <mxCell id="r2uFPz5yJiwA0iLjTGkI-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="r2uFPz5yJiwA0iLjTGkI-36" target="r2uFPz5yJiwA0iLjTGkI-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="W8fuonI2RaEMCkXjrnjc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r2uFPz5yJiwA0iLjTGkI-36" target="W8fuonI2RaEMCkXjrnjc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r2uFPz5yJiwA0iLjTGkI-36" value="Przenieś folder z wynikami do lokalizacji /h&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
@@ -288,7 +291,7 @@
           <mxGeometry x="-240" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W8fuonI2RaEMCkXjrnjc-3" value="server_move_res()" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1070" width="270" height="350" as="geometry" />
+          <mxGeometry x="390" y="1110" width="270" height="350" as="geometry" />
         </mxCell>
         <mxCell id="W8fuonI2RaEMCkXjrnjc-5" value="Odczytaj z bazy danych SAVE_PATH" style="whiteSpace=wrap;html=1;" vertex="1" parent="W8fuonI2RaEMCkXjrnjc-3">
           <mxGeometry x="10" y="30" width="250" height="60" as="geometry" />
